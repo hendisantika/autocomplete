@@ -98,6 +98,11 @@
         <input type="text" class="cari_keyword form-control" id="cari_keyword_id" placeholder="Cari Nama Siswa..." />
         <div id="result"></div>
     </div>
+	<br><br>
+	<div class='web'>
+        <input type="text" class="cari_keyword form-control" id="cari_keyword_id" placeholder="Cari Nama Siswa..." />
+        <div id="result"></div>
+    </div>
 
 	<div class="row-fluid">
 			<div class="span12">
